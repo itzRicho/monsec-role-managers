@@ -1,0 +1,14 @@
+version: 2
+updates:
+  - package-ecosystem: npm
+    directory: /
+    schedule:
+      interval: daily
+    assignees:
+      - itzRicho
+    reviewers:
+      - itzRicho
+    commit-message:
+      prefix: chore
+    labels:
+      - enhancement
