@@ -1,7 +1,7 @@
 {
   "name": "monsec-role-managers",
   "version": "1.0.0",
-  "description": "",
+  "description": "This is a custom bot for Monsec and after along time I have finally had the opportunity to put this onto GitHub. Mainly due to some coding quality roadblocks.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -9,9 +9,10 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "discord.js": "^14.6.0"
+    "discord.js": "^14.11.0"
   },
   "devDependencies": {
     "eslint": "^8.27.0"
-  }
+  },
+  "keywords": []
 }
